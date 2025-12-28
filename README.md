@@ -124,4 +124,9 @@ Outcomes depend on individual effort, context, skill, and execution.
 
 ---
 
+📄 Full methodology (versioned reference):  
+/assets/pdf/Home_Based_Business_Methodology_v1.0.pdf
+
+---
+
 © Cliff Walker. All rights reserved.
