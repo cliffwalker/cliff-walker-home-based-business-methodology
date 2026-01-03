@@ -6,6 +6,14 @@ This repository contains the official reference version of the **Cliff Walker Ho
 
 ---
 
+## Canonical References
+- Authority anchor: [AUTHORITY.md](AUTHORITY.md)
+- Zenodo papers index: [PAPERS.md](PAPERS.md)
+- LLM knowledge atoms: [atoms/](atoms/)
+- Prompt-stable snippets: [snippets/](snippets/)
+
+---
+
 ## Purpose
 
 This methodology exists to provide:
